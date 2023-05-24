@@ -29,34 +29,10 @@
     }
 }
 
-header.develop {
-    padding-block: 20px;
-    background-color: var(--primary);
-    color: #FFFFFF;
-}
-
-footer.main {
-    padding-block: 32px;
-    background-color: var(--lime-green);
-}
-
 ul {
     list-style: none;
 }
 
-nav.n-content ul {
-    display: flex;
-    gap: 20px;
-    & a {
-        text-decoration: none;
-        color: #FFFFFF;
-    }
-}
-
 .text-center {
     text-align: center;
-}
-
-.copyright {
-    margin-top: 16px;
 }
