@@ -7,7 +7,7 @@ function Footer() {
                 <h2>Footer</h2>
             </div>
             <div className="container">
-              <p className="text-center copyright">Copyright © Todos os direitos reservados.</p>
+              <p className="text-center copyright">Copyright © 2023 - Todos os direitos reservados.</p>
             </div>
         </footer>
       </>
