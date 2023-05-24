@@ -1,5 +1,3 @@
-import './assets/scss/style.scss'
-
 import Hero from "./components/content/Hero/Index"
 import SignUp from "./components/content/SignUp/Index"
 import Footer from "./components/ui/Footer/Index"

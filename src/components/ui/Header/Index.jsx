@@ -1,3 +1,5 @@
+import { Link } from "react-router-dom";
+
 function Header() {
 
     return (
@@ -10,9 +12,10 @@ function Header() {
 
                 <nav className="n-content">
                     <ul>
-                        <li><a href="">Home</a></li>
+                        <li><a href="/">Home</a></li>
                         <li><a href="">Clientes</a></li>
                         <li><a href="">Blog</a></li>
+                        <li><a href="/sobre">Sobre</a></li>
                         <li><a href="">Contato</a></li>
                     </ul>
                 </nav>
