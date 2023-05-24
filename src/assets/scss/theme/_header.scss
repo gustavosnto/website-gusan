@@ -1,0 +1,14 @@
+header.develop {
+    padding-block: 20px;
+    background-color: var(--primary);
+    color: #FFFFFF;
+}
+
+nav.n-content ul {
+    display: flex;
+    gap: 20px;
+    & a {
+        text-decoration: none;
+        color: #FFFFFF;
+    }
+}

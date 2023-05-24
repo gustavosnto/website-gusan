@@ -1,5 +1,4 @@
 import FormSignUp from "../../blocks/FormSignUp/Index"
-import "./Style.scss"
 
 function SignUp() {
     return (
