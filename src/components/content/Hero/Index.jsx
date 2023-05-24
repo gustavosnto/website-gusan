@@ -1,3 +1,5 @@
+import "./Style.scss"
+
 function Hero() {
     return (
       <>
